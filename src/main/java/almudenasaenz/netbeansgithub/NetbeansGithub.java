@@ -12,6 +12,7 @@ public class NetbeansGithub {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("Epi: ¡Hola Blas!");
+        System.out.println((“>Epi: ¡Hola Blas!\n>Blas: ¡Hola Epi!\n”);
+        
     }
 }
